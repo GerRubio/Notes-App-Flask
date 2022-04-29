@@ -1,0 +1,31 @@
+/* Text color */
+a, h1, h2, h3, label, p {
+	color: #FFFFFF;
+}
+
+/* Body color */
+body {
+	background-color: #0b2f4b;
+}
+
+/* Web font */
+body, footer, head {
+	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Roboto Slab', serif;
+}
+
+/* Lists config */
+li { 
+	float:center;
+	padding:15px
+}
+
+ul { 
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto
+}
+
+#note-list {
+	border-radius: 5px;
+}

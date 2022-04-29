@@ -1,0 +1,8 @@
+# Visual Studio Code settings.
+.vscode
+
+# Ignore __pycache__.
+**/__pycache__
+
+# Ignore sqlite3.
+website/flasktodoapp.db
