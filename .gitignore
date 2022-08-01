@@ -6,4 +6,3 @@
 
 # Ignore SQL.
 *.sql
-.sqlite
